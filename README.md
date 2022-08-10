@@ -24,8 +24,7 @@ Deployment Status: [![Deploy to Heroku](https://github.com/hassanaftab93/REPO-NA
     </h2>
   </summary>
 
-  - Subtopic Detail 1
-  - Subtopic Detail 2
+  - This is for automating MS Teams
 </details>
 
 <!---------------------------------------- SECTION DIVIDER ---------------------------------------->
