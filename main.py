@@ -1,10 +1,13 @@
 import os             
 import pyautogui
 import time
-
-import login, logout
-
 from time import sleep
 from datetime import datetime
 
-os.startfile("C:/Users/hassan.aftab/AppData/Local/Microsoft/Teams/current/Teams.exe")
+import login, logout
+
+windowsUser = "hassan.aftab" # <-- Enter your Windows User Name here
+
+teamsPath = "C:/Users/{}/AppData/Local/Microsoft/Teams/current/Teams.exe".format(windowsUser)
+
+os.startfile(teamsPath)
