@@ -1,5 +1,5 @@
 
-# Project Name
+# MS Teams Automation
 
 <!-- --- DEPLOYMENT STATUS CODE ---
 
